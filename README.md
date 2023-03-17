@@ -1,6 +1,7 @@
 Hi, my name is Sérgio 🚀
 
-- 🌱 I’m currently learning Java, SpringBoot ...
+- 🔭 As a software developer, I have a facility for creating efficient solutions to complex problems. With a deep understanding of programming languages and structures.
+I have a solid knowledge in back-end development.
 - 📫 How to reach me: sergiowilson1999@gmail.com
 - 📝 My Portfolio: https://portfoliosergiobrito.netlify.app
 
@@ -12,3 +13,6 @@ Hi, my name is Sérgio 🚀
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiobriito&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergiobriito&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
