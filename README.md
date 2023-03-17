@@ -1,6 +1,5 @@
 Hi, my name is Sérgio 🚀
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Java, SpringBoot ...
 - 📫 How to reach me: sergiowilson1999@gmail.com
 - 📝 My Portfolio: https://portfoliosergiobrito.netlify.app
