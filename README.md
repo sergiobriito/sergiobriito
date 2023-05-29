@@ -8,12 +8,6 @@ I have a solid knowledge in back-end development.
 <a href="https://www.linkedin.com/in/s%C3%A9rgio-brito-719171193/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<div style="display: flex; margin-bottom: 20px;">
-  <a href="https://github.com/sergiobriito">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiobriito&layout=compact&langs_count=7&theme=dracula"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergiobriito&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
-</div>
   
 <div style="display: flex; margin-top: 20px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
