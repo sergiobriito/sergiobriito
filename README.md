@@ -1,14 +1,9 @@
-Hi, my name is Sérgio 🚀
+👋 Hey there, I'm Sérgio, a software engineer with a passion for crafting efficient solutions to intricate problems. I specialize in back-end development, leveraging a robust understanding of programming languages and structures.
 
-- 🔭 As a software developer, I have a facility for creating efficient solutions to complex problems. With a deep understanding of programming languages and structures.
-I have a solid knowledge in back-end development.
-- 📫 How to reach me: sergiowilson1999@gmail.com
-- 📝 My Portfolio: https://portfoliosergiobrito.netlify.app
+📧 Feel free to reach out to me at [sergiowilson1999@gmail.com](mailto:sergiowilson1999@gmail.com) or check out my portfolio [here](https://portfoliosergiobrito.netlify.app).
 
-<a href="https://www.linkedin.com/in/s%C3%A9rgio-brito-719171193/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s%C3%A9rgio-brito-719171193/)
 
-  
 <div style="display: flex; margin-top: 20px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
