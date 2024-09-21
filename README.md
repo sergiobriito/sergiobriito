@@ -1,7 +1,5 @@
 👋 Hey there, I'm Sérgio, a software engineer with a passion for crafting efficient solutions to intricate problems. I specialize in back-end development, leveraging a robust understanding of programming languages and structures.
 
-📧 Feel free to reach out to me at [sergiowilson1999@gmail.com](mailto:sergiowilson1999@gmail.com) 
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s%C3%A9rgio-brito-719171193/)
 
 <div style="display: flex; margin-top: 20px;">
